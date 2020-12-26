@@ -73,5 +73,8 @@ let rightUp = true
 
 radio.setGroup(1)
 basic.forever(function () {
-	
+/*
+	let voltage = pins.analogReadPin(AnalogPin.P0)
+    basic.showString(voltage.toString() + "  ")
+*/    
 })
