@@ -1,5 +1,5 @@
 {
-    "name": "Fjernbetjening",
+    "name": "fjernbetjening",
     "description": "",
     "dependencies": {
         "core": "*",
